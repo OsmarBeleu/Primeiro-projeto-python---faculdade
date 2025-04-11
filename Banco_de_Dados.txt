@@ -1,0 +1,11 @@
+Compra: 3 peças, Total: 30 reais, Data: 23/03/2025 17:12:48
+Compra: 4 peças, Total: 40 reais, Data: 23/03/2025 17:13:17
+Compra: 5 peças, Total: 50 reais, Data: 23/03/2025 18:08:49
+Compra: 10 peças, Total: 100 reais, Data: 24/03/2025 18:54:08
+Compra: 25 peças, Total: 250 reais, Data: 24/03/2025 19:23:23
+Compra: 3 peças, Total: 30 reais, Data: 25/03/2025 13:00:32
+Compra: 4 peças, Total: 40 reais, Data: 02/04/2025 12:38:05
+Compra: 3 peças, Total: 30 reais, Data: 02/04/2025 12:42:11
+Compra: 2 peças, Total: 20 reais, Data: 02/04/2025 14:21:47
+Compra: 6 peças, Total: 60 reais, Data: 02/04/2025 14:22:13
+Compra: 8 peças, Total: 80 reais, Data: 02/04/2025 14:22:38
